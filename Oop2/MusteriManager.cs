@@ -6,6 +6,9 @@ namespace Oop2
 {
     class MusteriManager
     {
-        Console.WriteLine();
+        public void Ekle(Musteri musteri)
+        {
+
+        }
     }
 }
